@@ -18,11 +18,11 @@ Ideal for those using an SD card in the car where the car's system sorts files a
 
 ## Usage
 
-1. Clone this repository or download the `shuffle_mp3.ps1` or '_shuffle_mp3.sh' script.
+1. Clone this repository or download the `shuffle_mp3.ps1` or `_shuffle_mp3.sh` script.
 
 2. Open PowerShell with administrator privileges.
 
-3. Navigate to the directory where your MP3 files and the `shuffle_mp3.ps1` or '_shuffle_mp3.sh' script are located:
+3. Navigate to the directory where your MP3 files and the `shuffle_mp3.ps1` or `_shuffle_mp3.sh` script are located:
     ```powershell
     cd "Path\To\Your\Directory"
     ```
