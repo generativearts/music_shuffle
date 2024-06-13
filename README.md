@@ -1,6 +1,6 @@
 # MP3 File Shuffle Renamer
 
-This PowerShell and Bash scripts Renames and Shuffle all MP3 files in a directory by adding an index to the beginning of the filename. If a filename already starts with a number followed by an underscore, the number is replaced with the new index. The files are also shuffled in a random order before renaming.
+This PowerShell and Bash and JScript scripts Renames and Shuffle all MP3 files in a directory by adding an index to the beginning of the filename. If a filename already starts with a number followed by an underscore, the number is replaced with the new index. The files are also shuffled in a random order before renaming.
 
 Ideal for those using an SD card in the car where the car's system sorts files alphabetically. This script allows you to create a randomized playlist for your car.
 
@@ -34,6 +34,10 @@ Ideal for those using an SD card in the car where the car's system sorts files a
 
     ```bash
     .\shuffle_mp3.sh
+    ```
+
+    ```cs
+    cscript .\shuffle_mp3.js
     ```
 
 ### Example
